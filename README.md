@@ -2,7 +2,8 @@
 - 👀 I’m interested in creating a meditation app
 - 🌱 I’m currently teaching yoga
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me at meditatepositivety@gmail.com
+
 
 <!---
 Stellastar11/Stellastar11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
