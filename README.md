@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Stellastar11
+- 👋 Hi, I’m @Stellastar
+
 - 👀 I’m interested in creating a meditation app
 - 🌱 I’m currently teaching yoga
 - 💞️ I’m looking to collaborate on ...
